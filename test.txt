@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E457-ABA6
+
+ Directory of C:\Users\harsh\OneDrive\Desktop\gitproject
+
+18/04/2018  03:01 PM    <DIR>          .
+18/04/2018  03:01 PM    <DIR>          ..
+18/04/2018  03:01 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  171,995,230,208 bytes free
